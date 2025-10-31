@@ -25,6 +25,7 @@ This script performs various maintenance tasks on a Windows machine, including s
 - Deletes Discord cache
 - Deletes old prefetch data
 - Empties Recycle Bin
+- Lightweight and portable
 - Generates a log file with timestamp after each run
 - Plugin support – Run your own batch scripts inside the `plugins/` folder for custom functionality
 
@@ -54,8 +55,9 @@ This script performs various maintenance tasks on a Windows machine, including s
  - Delete Windows Update files [18]
  - Delete old prefetch data [19]
  - Empty Recycle Bin [20]
-5. Do not touch your personal computer until the scan ends.
-6. After completion, check the desktop for `BSM_log.txt` for a timestamped record of the cleanup.
+5. Avoid using your personal computer until the scan ends.
+6. Restart your personal computer.
+7. After completion, check the desktop for `BSM_log.txt` for a timestamped record of the cleanup.
 
 ## License
 © 2025 LB-Works™ – All Rights Reserved
