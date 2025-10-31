@@ -71,25 +71,11 @@ Both the **ASCII version** and the **two official logos** of LB-Works™ are pro
 
 ---
 
-### Brand Asset Package
-
-An official ZIP file — `brand assets.zip` — containing LB-Works™ brand materials is provided for **internal use only**.
-
-**Contents of the ZIP file include:**
-
-- Two official LB-Works™ logos (light and dark background versions)
-- The official ASCII logo
-
-These assets are protected under the **“All Rights Reserved”** license and may not be used, modified, redistributed, or reproduced without explicit written permission from LB-Works™. Unauthorized use will be considered a violation of this agreement.
-
-[brand assets.zip](attachment:397e8bf9-c679-4622-b926-272b8477ba99:brand_assets.zip)
-
----
-
 ### Contact Information
 
 For questions about this agreement, please contact: [lbworks.contact@gmail.com](mailto:lbworks.contact@gmail.com)
 
 ---
+
 
 **Note:** *LB-Works™ may also be referred to as **LB Studios** or **LB Studio**. All names represent the same brand and are used interchangeably.*
