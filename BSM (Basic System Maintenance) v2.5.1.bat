@@ -20,7 +20,7 @@ echo (c) 2025 LB-Works (TM) - All Rights Reserved
 echo.
 echo ---------------------------------------------------------------------------------------------
 echo.
-echo BSM (Basic System Maintenance) v2.5
+echo BSM (Basic System Maintenance) v2.5.1
 echo WARNING: Please read README.ML before running this script.
 set /p choices=Enter "scan" to run a Full scan. To activate Plugins, type "plugin" next to it. (to learn more, check README.ML)
 
@@ -415,3 +415,4 @@ powershell -command "Clear-RecycleBin -Force"
 )
 
 pause
+
