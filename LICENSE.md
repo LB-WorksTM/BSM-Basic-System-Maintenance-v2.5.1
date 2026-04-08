@@ -1,4 +1,4 @@
-© 2025 LB-Works™
+© 2026 LB-Works™
 All Rights Reserved.
 
 This software and its associated files are the intellectual property of the author.  
