@@ -60,4 +60,4 @@ This script performs various maintenance tasks on a Windows machine, including s
 7. After completion, check the desktop for `BSM_log.txt` for a timestamped record of the cleanup.
 
 ## License
-© 2025 LB-Works™ – All Rights Reserved
+© 2026 LB-Works™ – All Rights Reserved
