@@ -1,17 +1,18 @@
-[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](https://example.com/license)
-[![Version](https://img.shields.io/badge/version-2.5.1-blue)](https://github.com/yourrepo)
+[![License](https://img.shields.io/badge/license-MIT-red)]
+[![Version](https://img.shields.io/badge/version-2.5.2-blue)]
+[![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)]
 
 # BSM (Basic System Maintenance) Script
-This script performs various maintenance tasks on a Windows machine, including system file checks, image repair, and cache cleanup for multiple browsers.
+This script performs various maintenance tasks on a Windows machine, including system file checks and cache cleanup for multiple browsers.
 
 ## Features
 - Runs System File Checker (SFC)
 - Uses Deployment Image Servicing and Management (DISM)
 - Flushes DNS cache
 - Deletes temporary files
-- Deletes Windows Restore Points
+- Deletes Windows Restore Points (OPTIONAL IN FULL SCAN)
 - Clears browser cache for Chrome, Edge, Brave, Opera, and Opera GX
-- Clears the Downloads folder
+- Clears the Downloads folder (OPTIONAL IN FULL SCAN)
 - Deletes Explorer recent file list
 - Clears Command Prompt history
 - Deletes dump files
@@ -19,7 +20,7 @@ This script performs various maintenance tasks on a Windows machine, including s
 - Deletes old Windows Update logs
 - Deletes old Windows event tracing logs
 - Deletes Windows thumbnail cache
-- Deletes Windows Event Log files
+- Deletes Windows Event Log files (OPTIONAL IN FULL SCAN)
 - Cleans up Windows Update files
 - Deletes Epic Games cache
 - Deletes Discord cache
@@ -59,5 +60,7 @@ This script performs various maintenance tasks on a Windows machine, including s
 6. Restart your personal computer.
 7. After completion, check the desktop for `BSM_log.txt` for a timestamped record of the cleanup.
 
-## License
-© 2026 LB-Works™ – All Rights Reserved
+## Copyright
+Copyright © 2026 LB-Studio™
+This project is licensed under the MIT License.
+See the LICENSE file in the project root for full license information.
