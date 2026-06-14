@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/badge/license-MIT-red)]
-[![Version](https://img.shields.io/badge/version-2.5.2-blue)]
-[![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)]
+![License](https://img.shields.io/badge/license-MIT-red)
+![Version](https://img.shields.io/badge/version-2.5.2-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010-%230078D4?logo=windows)
 
 # BSM (Basic System Maintenance) Script
 This script performs various maintenance tasks on a Windows machine, including system file checks and cache cleanup for multiple browsers.
